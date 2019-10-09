@@ -8088,4 +8088,3 @@ Orandi Harris
 - [Chris Harmoney](https://github.com/charmoney)
 - [Cooper Timmerman](https://github.com/coopdog95)
 - [Jorge](https://github.com/ferreiro)
-- [João Joaquim](https://github.com/jgdj01/)
